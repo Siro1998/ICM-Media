@@ -9,7 +9,8 @@
 * Click on the buttons on the left to record/stop. Use the sliders to control the pitch(playback rate) of the recordings. Use the sequencer to arrange the recordings and make a composition. The slider at the bottom can control the bpm(speed of the squencer). 
 
 ### Demo
-https://user-images.githubusercontent.com/43830622/143801792-3b0a93bb-c2e8-4fae-a061-5e922561d53c.mp4
+https://user-images.githubusercontent.com/43830622/143803460-f512c751-5ce6-42a4-8590-a9a1f42f56ad.mp4
+
 
 ### Reference
 * [Recorder](https://editor.p5js.org/icm4.0/sketches/FSIOKFpR4)
